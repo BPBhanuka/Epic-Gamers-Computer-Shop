@@ -1,0 +1,852 @@
+.main-body{
+    background-image: url("resource/background1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* .main-body2{
+    background-image: url("resource/background3.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+} */
+
+.main-body3{
+    background-image: url("resource/background5.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo{
+    background-image: url("resource/logo.png");
+    height: 120px; 
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo2{
+    background-image: url("resource/logo.png");
+    height: 160px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@font-face {
+    font-family: "Skygraze";
+    src: url("font/Skygraze.otf");
+}
+
+@font-face {
+    font-family: "Frozito-eZ99g";
+    src: url("font/Frozito-eZ99g.ttf");
+}
+
+@font-face {
+    font-family:"Quicksand-Medium" ;
+    src: url("font/Quicksand-Medium.ttf");
+}
+
+.background{
+    background-image: url("resource/background4.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+
+.title1{
+    font-family: "Frozito-eZ99g";
+    font-size: 45px;
+    letter-spacing: 3px;
+    color: rgb(0, 255, 255);
+}
+.title3{
+    font-family: "Skygraze";
+    font-size: 50px;
+    letter-spacing: 3px;
+    color: rgb(224, 33, 12);
+}
+
+.title2{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.title4{
+    font-family: "Quicksand-Medium";
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(251, 255, 0);
+}
+
+.title4{
+    text-shadow: 0px 0px 10px 5px;
+    color: rgb(251, 255, 0);
+}
+
+.title5{
+    font-size: 25px;
+    font-weight: bold;
+}
+.title6{
+    font-family: "Quicksand-Medium";
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(0, 247, 255);
+}
+.title7{
+    font-family: "Quicksand-Medium";
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(119, 41, 245);
+}
+.d1{
+    font-family: "Quicksand-Medium";
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(235, 18, 18);
+}
+
+.d2{
+    color: rgb(143, 103, 253)
+}
+
+.d4{
+    background-color: rgb(61, 61, 61);
+}
+
+.b1{
+    color: red;
+}
+.poster-img-1{
+    height: 850px;
+    background-repeat: no-repeat;   
+}
+
+.poster-title{
+    font-size: 50px;
+    color: rgb(242, 49, 81);
+    font-family: "Skygraze";
+}
+
+.poster-txt{
+    font-size: 20px;
+    color: rgb(126, 125, 125);
+    font-weight: bold;
+}
+
+.poster-title2{
+    font-size: 50px;
+    color: rgb(31, 7, 255);
+    font-family: "Skygraze";
+}
+
+.e1{
+    width: 400px;
+    height: 220px;
+    border-radius: 20px;
+    border: none;
+      
+    
+}
+
+.d5{
+    font-weight: bold;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+    font-family:"Arial";
+    border-radius: 20px;
+    color: rgb(0, 247, 255);
+    
+}
+
+.d5i:hover{
+    
+    box-shadow: 0px 0px 10px 3px;
+    color: rgb(255, 111, 9);
+    transition-duration: 1.5s;
+     
+}
+
+.d7i{
+    background-image: url("resource/categroy images/image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.d7ii{
+    background-image: url("resource/categroy images/image2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.d7iii{
+    background-image: url("resource/categroy images/image3.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.d7iv{
+    background-image: url("resource/categroy images/image4.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.d7v{
+    background-image: url("resource/categroy images/image5.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.d7vi{
+    background-image: url("resource/categroy images/image6.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.d7vii{
+    background-image: url("resource/categroy images/image7.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.d7viii{
+    background-image: url("resource/categroy images/image8.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.d7ix{
+    background-image: url("resource/categroy images/image9.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.d7x{
+    background-image: url("resource/categroy images/image10.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+ 
+
+.c1{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(100, 100, 100);
+    border: none;
+    font-weight: bold;
+    font-family: "Arial";
+    color: white;
+    font-size: 20px;    
+    
+}
+.c1:hover{
+    box-shadow: 0px 0px 10px 4px; 
+    transition-duration: 1s;
+    color: rgb(13, 212, 23);
+    
+}
+
+.c2{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(100, 100, 100);
+    border: none;
+    font-weight: bold;
+    font-family: "Arial";
+    color: white;
+    font-size: 20px;    
+    
+}
+.c2:hover{
+    box-shadow: 0px 0px 10px 4px; 
+    transition-duration: 1s;
+    color: rgb(243, 69, 69);
+    
+}
+
+.buy{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(100, 100, 100);
+    border: none;
+    font-weight: bold;
+    font-family: "Arial";
+    color: white;
+    font-size: 20px;    
+    
+}
+.buy:hover{
+    box-shadow: 0px 0px 10px 4px; 
+    transition-duration: 1s;
+    color: rgb(5, 231, 5);
+    
+}
+
+.c2i{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(100, 100, 100);
+    border: none;
+    font-weight: bold;
+    font-family: "Arial";
+    color: white;
+    font-size: 20px;    
+}
+
+.c2i:hover{
+    box-shadow: 0px 0px 10px 4px; 
+    transition-duration: 1s;
+    color: rgb(69, 243, 185);
+    
+}
+
+
+.c3{
+    width: 200px;
+    height: 40px;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: rgb(70, 71, 71);
+    border: none;
+    font-weight: bold;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    box-shadow: 0px 0px 10px 4px; 
+    color: #00eaff;
+    
+    
+}
+.c3:hover{
+    background-color: #ffbf00;
+}
+.c4{
+    width: 300px;
+    height: 80px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: rgb(64, 64, 64);
+    border: none;
+    font-weight: bold;
+    font-family: "Arial";
+    color: rgb(38, 0, 100);
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.c4:hover{
+    box-shadow: 0px 0px 10px 6px; 
+    transition-duration: 1s;
+    color: rgb(4, 188, 255);
+ 
+    
+    
+}
+
+.c5{
+
+    font-weight: bold;
+    font-family: "Arial";
+    color: rgb(251, 251, 251);
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+
+.c5:hover{
+  
+    color: rgb(4, 188, 255);
+ 
+    
+    
+}
+
+ 
+.d8:hover{
+    box-shadow: 0px 0px 10px 2px;
+    background-color: rgb(4, 188, 255);
+    transition-duration: 1s;
+    color: rgb(0, 204, 255);
+    
+}
+
+.d9:hover{
+    box-shadow: 0px 0px 10px 2px;
+    background-color: rgb(4, 188, 255);
+    transition-duration: 1s;
+}
+ 
+.image{
+    height: 500px;
+    width: 500px;
+}
+
+.c6{
+    border-radius: 20px;
+    border-color: #f1f1f1;
+    border-width: 4px;
+    background-color: rgb(44, 44, 44);
+}
+.c7{
+    width: 200px;
+    height: 45px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: rgb(0, 255, 195);
+    border: none;
+    font-weight: bold;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 20px; 
+}
+
+.c7:hover{
+    box-shadow: 0px 0px 10px 6px; 
+    transition-duration: 1s;
+    color: rgb(4, 188, 255);
+  
+}
+
+.c8{
+    
+    border-radius: 20px;
+    border: none;
+    border-color: #00eaff;
+    border-width: 3px;
+    font-weight: bold;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 20px; 
+}
+
+.c8:hover{
+    transition-duration: 1s;
+    color: rgb(4, 188, 255);
+   
+}
+
+.d9:hover{
+    box-shadow: 0px 0px 10px 5px;
+    color: rgb(71, 31, 249);
+    background-color: rgb(0, 255, 213);
+    transition-duration: 2s;
+}
+.d10{
+    border-width: 3px;
+    border-color: rgb(108, 56, 241);
+}
+
+.d11{
+    box-shadow: 0px 0px 10px 5px;
+    color: rgb(0, 221, 255);
+    background-color: rgb(255, 221, 0);
+    transition-duration: 2s;
+}
+
+.i1:hover{
+    box-shadow:0px 0px 10px 7px ;
+    color: rgb(18, 255, 227);
+    background-color: rgb(80, 80, 80);
+    transition-duration: 2s;
+}
+.i2{
+    width: 300px;
+    height: 80px; 
+}
+.i3:hover{
+    box-shadow: 0px 0px 10px 7px;
+    color: rgb(0, 225, 255);
+    transition-duration: 2s;
+}
+.i4:hover{
+    box-shadow: 0px 0px 10px 5px;
+    color: rgb(168, 76, 253);
+    background-color: rgb(37, 255, 226);
+    transition-duration: 2s; 
+}
+ 
+.i5{ 
+    width: 200px;
+    height: 60px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: rgb(64, 64, 64);
+    border: none;
+    font-weight: bold;
+    font-family: "Arial";
+    color: rgb(255, 187, 0);
+    font-weight: bold;
+    font-size: 15px;  
+}
+
+.i5:hover{
+    box-shadow: 0px 0px 10px 6px; 
+    transition-duration: 1s;
+    color: rgb(4, 188, 255);   
+}
+
+.y2{
+    background-color: rgb(188, 131, 253);
+}
+
+.y2:hover{
+    box-shadow: 0px 0px 10px 5px;
+    background-color: rgb(4, 188, 255);
+    transition-duration: 2s;
+    color: rgb(0, 204, 255); 
+    
+     
+}
+
+.loader{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100hv;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #00eaff;
+}
+.loader::after{
+    content: "";
+    width: 75px;
+    height: 75px;
+    border: 15px solid ;
+    border-top-color: #00eaff;
+    border-radius: 50%;
+    animation: loding 0.75 ease infinite;
+}
+@keyframes loding {
+    from {transform: rotate(0turn);}
+    to { transform: rotate(1turn);}
+}
+
+.signUpbutton{
+    height: 40px;
+    background-color:rgb(80, 79, 79);
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold; 
+    color: rgb(255, 255, 255);
+    border: none;
+}
+ 
+.signUpbutton:hover{
+    background-color: #00eaff;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+.changeButton{
+    background-color:rgb(80, 79, 79);
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold; 
+    color: rgb(255, 255, 255);
+    border: none;
+}
+
+.changeButton:hover{
+    background-color: #ff9100;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+.signInbutton{
+    height: 40px;
+    background-color:rgb(80, 79, 79);
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold; 
+    color: rgb(255, 255, 255);
+    border: none;
+}
+ 
+.signInbutton:hover{
+    background-color: #00eaff;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+.mainSearch{
+    
+    height: 40px;
+    background-color: #00eaff;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold; 
+    color: rgb(255, 255, 255);
+    border: none;
+} 
+
+.anime{
+    opacity: 0;
+    transform: translateY(80px);
+    animation: moveup 0.5s linear forwards;
+}
+@keyframes moveup {
+    100%{
+        opacity: 1;
+        transform: translateY(0px); 
+    }
+}
+
+.popup{
+    transition: 0.4s;
+}
+
+.popup:hover{
+    transform: scale(1.1);
+}
+
+.popup2{
+    transition: 0.1s;
+}
+
+.popup2:hover{
+    transform: scale(1.1);
+}
+ 
+ 
+.adminButton{
+    height: 40px;
+    background-color: rgb(80, 79, 79);
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold; 
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+
+.adminButton:hover{
+    background-color: #00ffff;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+.clearButton{
+    height: 40px;
+    width: 260px;
+    background-color: rgb(80, 79, 79);
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold; 
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+
+.clearButton:hover{
+    background-color: #fa1919;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+.clearButton2{
+    height: 60px;
+    width: 200px;
+    background-color: rgb(80, 79, 79);
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold; 
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+
+.clearButton2:hover{
+    background-color: #ff0000;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+.findButton{
+    height: 60px;
+    width: 200px;
+    background-color: rgb(80, 79, 79);
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold; 
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+
+.findButton:hover{
+    background-color: #00ffff;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+.clearButton3{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(80, 79, 79);
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold; 
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+
+.clearButton3:hover{
+    background-color: #fc1717;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+.sortButton{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(80, 79, 79);
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold; 
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+
+.sortButton:hover{
+    background-color: #00eeff;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+.updateButton{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(80, 79, 79);
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold; 
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+
+.updateButton:hover{
+    background-color: #00ffff;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+.icon{
+    width:60px; 
+    cursor: pointer;
+}
+  
+.icon2:hover{
+    color: #00fff2;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.checkoutButoon{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(80, 79, 79);
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+
+.checkoutButoon:hover {
+    background-color: #00ffff;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+.resetButton{
+    height: 40px;
+    width: 160px;
+    background-color: rgb(80, 79, 79);
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+
+.resetButton:hover {
+    background-color: #00ffff;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+::-webkit-scrollbar{
+    width: 13px;
+}
+
+.bg{ 
+    width: 100%;
+    background-color: rgb(91, 91, 91);
+    border-radius: 10px; 
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: none; 
+}
+
+.bg:hover {
+    background-color: #00fbff;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+.bg2{ 
+    width: 100%;
+    background-color: rgb(91, 91, 91);
+    border-radius: 10px; 
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: none; 
+}
+
+.bg2:hover {
+    background-color: #ffaa00;
+    color: #353535;
+    transition-duration: 1s;
+}
+
+
+::-webkit-scrollbar-thumb{ 
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+::-webkit-scrollbar-thumb{
+    background-color:#00eeff ; 
+}
